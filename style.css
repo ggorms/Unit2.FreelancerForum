@@ -1,0 +1,26 @@
+#data {
+    display: flex;
+    justify-content: center;
+}
+
+#titles {
+    display: flex;
+    justify-content: center;
+}
+
+#titles > h3 {
+    padding-left: 50px;
+}
+
+#data > div {
+    padding-left: 50px;
+}
+
+h1,h2,h3 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
